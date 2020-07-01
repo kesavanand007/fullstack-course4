@@ -1,12 +1,12 @@
 (function (window) {
-  var yaakovgreeter={};
-  yaakovgreeter.name="yaakov";
+  var Yaakovgreeter={};
+  Yaakovgreeter.name="Yaakov";
   var greeting=" Hello ";
-  yaakovgreeter.sayHello= function () {
-	console.log(greeting +yaakovgreeter.name);
+  Yaakovgreeter.sayHello= function () {
+	console.log(greeting +Yaakovgreeter.name);
   }
 
-  window.yaakovgreeter=yaakovgreeter;
+  window.Yaakovgreeter=Yaakovgreeter;
 
 })(window);
 
@@ -47,62 +47,62 @@
 })(window);
 
 (function (window) {
-  var paulgreeter={};
-  paulgreeter.name="paul";
+  var Paulgreeter={};
+  Paulgreeter.name="Paul";
   var greeting=" Hello ";
-  paulgreeter.sayHello= function () {
-	console.log(greeting +paulgreeter.name);
+  Paulgreeter.sayHello= function () {
+	console.log(greeting +Paulgreeter.name);
   }
 
-  window.paulgreeter=paulgreeter;
+  window.Paulgreeter=Paulgreeter;
 
 })(window);
 
 (function (window) {
-  var frankgreeter={};
-  frankgreeter.name="frank";
+  var Frankgreeter={};
+  Frankgreeter.name="Frank";
   var greeting=" Hello ";
-  frankgreeter.sayHello= function () {
-	console.log(greeting +frankgreeter.name);
+  Frankgreeter.sayHello= function () {
+	console.log(greeting +Frankgreeter.name);
   }
 
-  window.frankgreeter=frankgreeter;
+  window.Frankgreeter=Frankgreeter;
 
 })(window);
 
 (function (window) {
-  var larrygreeter={};
-  larrygreeter.name="larry";
+  var Larrygreeter={};
+  Larrygreeter.name="Larry";
   var greeting=" Hello ";
-  larrygreeter.sayHello= function () {
-	console.log(greeting +larrygreeter.name);
+  Larrygreeter.sayHello= function () {
+	console.log(greeting +Larrygreeter.name);
   }
 
-  window.larrygreeter=larrygreeter;
+  window.Larrygreeter=Larrygreeter;
 
 })(window);
 
 (function (window) {
-  var paulagreeter={};
-  paulagreeter.name="paula";
+  var Paulagreeter={};
+  Paulagreeter.name="Paula";
   var greeting=" Hello ";
-  paulagreeter.sayHello= function () {
-	console.log(greeting +paulagreeter.name);
+  Paulagreeter.sayHello= function () {
+	console.log(greeting +Paulagreeter.name);
   }
 
-  window.paulagreeter=paulagreeter;
+  window.Paulagreeter=Paulagreeter;
 
 })(window);
 
 (function (window) {
-  var lauragreeter={};
-  lauragreeter.name="laura";
+  var Lauragreeter={};
+  Lauragreeter.name="Laura";
   var greeting=" Hello ";
-  lauragreeter.sayHello= function () {
-	console.log(greeting +lauragreeter.name);
+  Lauragreeter.sayHello= function () {
+	console.log(greeting +Lauragreeter.name);
   }
 
-  window.lauragreeter=lauragreeter;
+  window.Lauragreeter=Lauragreeter;
 
 })(window);
 

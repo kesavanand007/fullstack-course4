@@ -1,11 +1,11 @@
-yaakovgreeter.sayHello();
+Yaakovgreeter.sayHello();
 Johngreeter.sayGoodBye();
 Jengreeter.sayGoodBye();
 Jasongreeter.sayGoodBye();
-paulgreeter.sayHello();
-frankgreeter.sayHello();
-larrygreeter.sayHello();
-paulagreeter.sayHello();
-lauragreeter.sayHello();
+Paulgreeter.sayHello();
+Frankgreeter.sayHello();
+Larrygreeter.sayHello();
+Paulagreeter.sayHello();
+Lauragreeter.sayHello();
 Jimgreeter.sayGoodBye();
 
